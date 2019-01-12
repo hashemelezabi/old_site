@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Blog"
-    url: https://hashemelezabi.github.io/blog/
+    url: /blog/
   - title: "Projects"
-    url: https://hashemelezabi.github.io/projects/
+    url: /projects/
     
