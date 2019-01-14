@@ -7,11 +7,11 @@ feature_row:
     excerpt: "For my Modern Algebra class, I studied and wrote a class paper on algebraic automata theory, mainly building up and proving the Krohn-Rhodes decomposition theorem. (Figure from *Nine Chapters on the Semigroup Art* by Alan J. Cain)"
     url: "/posts/algebraic-automata/"
   - image_path: /assets/images/r-tree.jpg
-    title: "R-tree implementation in Rust"
+    title: "R-tree"
     excerpt: "This is a cool project that I haven't started yet."
     url: "/posts/r-tree/"
   - image_path: /assets/images/dweep.jpg
-    title: "Dweep AI player"
+    title: "AI"
     excerpt: "This is a cool project that I haven't started yet."
     url: "/posts/dweep/"
 ---
