@@ -4,7 +4,7 @@ permalink: /
 feature_row:
   - image_path: /assets/images/algebraic_automata.jpg
     title: "Algebraic theory of automata and semigroups"
-    excerpt: "For my Modern Algebra class, I studied and wrote a class paper on algebraic automata theory, mainly building up and proving the Krohn-Rhodes decomposition theorem. (Figure from *Nine Chapters on the Semigroup Art* by Alan J. Cain)"
+    excerpt: "For my Modern Algebra class, I studied and wrote a class paper on algebraic automata theory, mainly introducing semigroup theory and building up and proving the Krohn-Rhodes decomposition theorem. (Figure from *Nine Chapters on the Semigroup Art* by Alan J. Cain)"
     url: "/posts/algebraic-automata/"
   - image_path: /assets/images/r-tree.jpg
     title: "R-tree"
