@@ -6,12 +6,12 @@ feature_row:
     title: "Algebraic theory of automata and semigroups"
     excerpt: "For my Modern Algebra class, I studied and wrote a class paper on algebraic automata theory, mainly introducing semigroup theory and building up and proving the Krohn-Rhodes decomposition theorem. (Figure from *Nine Chapters on the Semigroup Art* by Alan J. Cain)"
     url: "/posts/algebraic-automata/"
-  - image_path: /assets/images/r-tree.jpg
-    title: "R-tree"
-    excerpt: "This is a cool project that I haven't started yet."
-    url: "/posts/r-tree/"
+  - image_path: /assets/images/barnette.jpg
+    title: "Barnette's conjecture"
+    excerpt: "For my Graph Theory class, I studied and wrote a survey paper on Barnette's conjecture, which states that every planar, 3-regular, 3-connected, bipartite graph is Hamiltonian. I introduce the history of the conjecture, and prove a few results around it, taken from various sources published over the years."
+    url: "/posts/barnette/"
   - image_path: /assets/images/dweep.jpg
-    title: "AI"
+    title: "Dweep"
     excerpt: "This is a cool project that I haven't started yet."
     url: "/posts/dweep/"
 ---
