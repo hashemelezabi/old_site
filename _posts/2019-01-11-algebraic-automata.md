@@ -2,6 +2,8 @@
 layout: single
 title: "Algebraic theory of automata and semigroups"
 permalink: /posts/algebraic-automata/
+categories: projects
+
 ---
 
 For my Modern Algebra class, I studied and wrote a class paper on algebraic automata theory, mainly introducing semigroup theory and building up and proving the Krohn-Rhodes decomposition theorem. The following is the abstract of the paper.
