@@ -14,7 +14,6 @@ feature_row:
     title: "Dweep"
     excerpt: "This is a cool project that I haven't started yet."
     url: "/posts/dweep/"
-classes: wide
 ---
 
 # Publications
