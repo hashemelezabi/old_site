@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "Home"
 permalink: /
 feature_row:
   - image_path: /assets/images/algebraic_automata.jpg
