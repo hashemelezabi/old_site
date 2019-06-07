@@ -5,3 +5,4 @@ permalink: /blog/
 
 ---
 
+# Truth isn't ~~truth~~ provability
