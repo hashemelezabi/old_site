@@ -2,22 +2,14 @@
 layout: home
 title: "Home"
 permalink: /
-feature_row:
-  - image_path: /assets/images/algebraic_automata.jpg
-    title: "Algebraic theory of automata and semigroups"
-    excerpt: "For my Modern Algebra class, I studied and wrote a class paper on algebraic automata theory, mainly introducing semigroup theory and building up and proving the Krohn-Rhodes decomposition theorem. (Figure from *Nine Chapters on the Semigroup Art* by Alan J. Cain)"
-    url: "/posts/algebraic-automata/"
-  - image_path: /assets/images/barnette.jpg
-    title: "Barnette's conjecture"
-    excerpt: "For my Graph Theory class, I studied and wrote a survey paper on Barnette's conjecture, which states that every planar, 3-regular, 3-connected, bipartite graph is Hamiltonian. I introduce the history of the conjecture, and prove a few results around it, taken from various sources published over the years."
-    url: "/posts/barnette/"
-  - image_path: /assets/images/dweep.jpg
-    title: "Dweep"
-    excerpt: "This is a cool project that I haven't started yet."
-    url: "/posts/dweep/"
+
 ---
 
 # Publications
+
+* **Unsupervised Large-Scale Search for Similar Earthquake Signals**
+Clara Yoon, Karianne Bergen, Kexin Rong, <u>Hashem Elezabi</u>, William Ellsworth, Gregory Beroza, Peter Bailis, Philip Levis.
+*BSSA 2019 (Bulletin of the Seismological Society of America)*
 
 * **Locality-Sensitive Hashing for Earthquake Detection: A Case Study of Scaling Data-Driven Science**  
 Kexin Rong, Clara Yoon, Karianne Bergen, <u>Hashem Elezabi</u>, Peter Bailis, Philip Levis, Gregory Beroza.  
@@ -27,7 +19,3 @@ Kexin Rong, Clara Yoon, Karianne Bergen, <u>Hashem Elezabi</u>, Peter Bailis, Ph
 * **PGAS Access Overhead Characterization in Chapel**  
 Engin Kayraklioglu, Olivier Serres, Ahmad Anbar, <u>Hashem Elezabi</u>, Tarek El-Ghazawi.  
 *IPDPSW 2016 (IEEE International Parallel and Distributed Processing Symposium Workshops).*
-
-# Selected Projects
-
-{% include feature_row %}
