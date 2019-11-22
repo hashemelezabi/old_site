@@ -1,15 +1,16 @@
 ---
 layout: home
 title: "Home"
+classes: wide
 permalink: /
 
 ---
 
 # Publications
 
-* **Unsupervised Large-Scale Search for Similar Earthquake Signals**
-Clara Yoon, Karianne Bergen, Kexin Rong, <u>Hashem Elezabi</u>, William Ellsworth, Gregory Beroza, Peter Bailis, Philip Levis.
-*BSSA 2019 (Bulletin of the Seismological Society of America)*
+* **Unsupervised Large-Scale Search for Similar Earthquake Signals**  
+Clara Yoon, Karianne Bergen, Kexin Rong, <u>Hashem Elezabi</u>, William Ellsworth, Gregory Beroza, Peter Bailis, Philip Levis.  
+*BSSA 2019 (Bulletin of the Seismological Society of America).*
 
 * **Locality-Sensitive Hashing for Earthquake Detection: A Case Study of Scaling Data-Driven Science**  
 Kexin Rong, Clara Yoon, Karianne Bergen, <u>Hashem Elezabi</u>, Peter Bailis, Philip Levis, Gregory Beroza.  
