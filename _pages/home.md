@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Home"
-classes: wide
+classes: wide-home
 permalink: /
 
 ---
