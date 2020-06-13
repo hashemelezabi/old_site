@@ -1,10 +1,12 @@
 ---
 layout: full-width
-title: blog
+title: Hashem Elezabi
 # Note that this index page uses a full-width layout!
 ---
 
-Testing
+## Hello!
+
+I'm Hashem -- thanks for visiting my website. 
 
 <!--   <h1 class="content-listing-header sans">Articles</h1>
   <ul class="content-listing ">
