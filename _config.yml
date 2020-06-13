@@ -1,3 +1,4 @@
+url: https://hashemelezabi.github.io
 baseurl: /
 title: Tufte-Jekyll
 subtitle: Content-centric blogging
@@ -19,7 +20,7 @@ page:
   extension: md
 editor: gvim
 git:
-  branch: master
+  branch: working
 transfer:
   command: rsync
   settings: -av
