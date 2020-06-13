@@ -5,7 +5,9 @@ title: Hashem Elezabi
 
 # Hello!
 
-I'm Hashem -- thanks for visiting my website. I'm an undergraduate student at Stanford University majoring in Computer Science with a minor in Mathematics. I'm interested in algorithms, machine learning, and computer systems. {% marginfigure "my-photo" "assets/img/me.jpg" "At beautiful Yosemite" %}
+{% smallmarginfigure "my-photo" "assets/img/me.jpg" "At beautiful Yosemite" %}
+
+I'm Hashem -- thanks for visiting my website. I'm an undergraduate student at Stanford University majoring in Computer Science with a minor in Mathematics. I'm interested in algorithms, machine learning, and computer systems. 
 
 I love working on hard problems, especially ones that have a real-world impact. I have worked on significant projects in both industry and academia, as well as a number of personal projects. Check out a comprehensive list here!
 
