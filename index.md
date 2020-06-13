@@ -5,7 +5,7 @@ title: Hashem Elezabi
 
 # Hello!
 
-{% smallmarginfigure "my-photo" "assets/img/me.jpg" "At beautiful Yosemite" %}
+{% smallmarginfigure "my-photo" "assets/img/me.jpg" "" %}
 
 I'm Hashem -- thanks for visiting my website. I'm an undergraduate student at Stanford University majoring in Computer Science with a minor in Mathematics. I'm interested in algorithms, machine learning, and computer systems. 
 
