@@ -128,8 +128,13 @@ p .subtitle { font-style: italic;
 
 p, ol, ul { font-size: 1.4rem; }
 
-p, li { line-height: 2rem;
+p { line-height: 2rem;
         margin-top: 1.4rem;
+        padding-right: 2rem; //removed because,  why?
+        vertical-align: baseline; }
+
+li { line-height: 1.5rem;
+        margin-top: 0.5rem;
         padding-right: 2rem; //removed because,  why?
         vertical-align: baseline; }
 
@@ -241,7 +246,7 @@ section { padding-top: 1rem;
 ul,ol { width: 45%;
      -webkit-padding-start: 5%;
      -webkit-padding-end: 5%;
-     list-style-type: none; }
+     list-style-type: disc; }
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
 
@@ -262,6 +267,11 @@ figcaption { float: right;
              max-width: 40%; }
 
 figure.fullwidth figcaption { float: left; margin-right: 0%; margin-left: 33%; max-width: 100%; }
+
+.smallimage {
+  float: left; margin-right: 0%; margin-left: 10%; max-width: 100%; width: 70%;
+  border-radius: 7%;
+}
 
 img { max-width: 100%; }
 
@@ -377,8 +387,10 @@ header > nav.group, body footer {
   padding-top: 2rem;
 }
 
-nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
-nav.group a.active:after{ content:"\000a0\0003e" ;}
+
+nav.group a.active {
+  font-weight: bold;
+}
 
 header > nav  a{
   font-size: 1.2rem;

@@ -1,10 +1,10 @@
 baseurl:
-title: Tufte-Jekyll
-subtitle: Content-centric blogging
-author: clay harmon
+title: Hashem Elezabi
+subtitle: my personal website
+author: Hashem Elezabi
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
-name: tufte
+description: "This is the personal website and blog of Hashem Elezabi, which contains exciting stuff about algorithms, deep learning, computer systems, and mathematics."
+name: Hashem Elezabi
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title

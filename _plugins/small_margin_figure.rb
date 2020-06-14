@@ -3,7 +3,7 @@
 ## Usage {% marginfigure 'margin-id-whatever' 'path/to/image' 'This is the caption' %}
 #
 module Jekyll
-  class RenderMarginFigureTag < Liquid::Tag
+  class RenderSmallMarginFigureTag < Liquid::Tag
 
   	require "shellwords"
 
@@ -17,14 +17,14 @@ module Jekyll
       if @text[1].start_with?('http://', 'https://', '//')
         "<label for='#{@text[0]}' class='margin-toggle'>&#8853;</label>"+
         "<input type='checkbox' id='#{@text[0]}' class='margin-toggle'/>"+
-        "<span class='marginnote'><img class='fullwidth' width='60%' src='#{@text[1]}'/><br>#{@text[2]}</span>"
+        "<span class='marginnote'><img class='smallimage' src='#{@text[1]}'/><br>#{@text[2]}</span>"
       else
         "<label for='#{@text[0]}' class='margin-toggle'>&#8853;</label>"+
         "<input type='checkbox' id='#{@text[0]}' class='margin-toggle'/>"+
-        "<span class='marginnote'><img class='fullwidth' width='60%' src='#{baseurl}/#{@text[1]}'/><br>#{@text[2]}</span>"
+        "<span class='marginnote'><img class='smallimage' src='#{baseurl}/#{@text[1]}'/><br>#{@text[2]}</span>"
       end
     end
   end
 end
 
-Liquid::Template.register_tag('smallmarginfigure', Jekyll::RenderMarginFigureTag)
+Liquid::Template.register_tag('smallmarginfigure', Jekyll::RenderSmallMarginFigureTag)
