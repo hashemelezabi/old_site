@@ -63,7 +63,7 @@ a {
   text-decoration: none;
 }
 
-p > a, cite > a, span > a { @if $link-style == underline
+p > a, cite > a, span > a:not(.paper-button) { @if $link-style == underline
     {
       color: $text-color;
       text-decoration: none;
@@ -82,6 +82,18 @@ p > a, cite > a, span > a { @if $link-style == underline
       text-decoration: none;
     }
   }
+
+a.paper-button {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  border-radius: 10px;
+  padding: 4px;
+  margin-right: 3px;
+  text-decoration: none;
+  font-size: 80%;
+  color: black;
+}
 
 body { width: 87.5%;
        margin-left: auto;

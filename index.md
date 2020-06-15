@@ -10,16 +10,55 @@ title: Hashem Elezabi
 
 I'm Hashem -- thanks for visiting my website. I'm a student at Stanford University majoring in Computer Science with a minor in Mathematics. I'm interested in algorithms, machine learning, and computer systems. Here's [my resume](assets/docs/resume.pdf).
 
-I've worked on projects in areas ranging from machine learning and automata theory to parallel computing and app development, in both research and industry settings. Check out some of my [projects](/projects), or take a look at my [blog](/blog)!
+I've worked on projects in areas ranging from machine learning and data mining to parallel computing and web development, in both research and industry settings. Check out some of my [projects](/projects), or take a look at my [blog](/blog)!
 
 <hr class="slender" width="70%" style="margin-top: 2%; margin-left: 7%">
 
 ## News
 
 <ul style="width: 80%;">
-  <li style="font-size: 80%"> <span><span style="color: #a00000">[June 2020]</span> My CS166 project team published our project on <a href="https://medium.com/@ankushswar1/the-promise-of-learned-data-structures-32bc1101349f">Medium</a>, where we explore learned index structures. Check out the associated <a href="https://markiewagner.github.io/cs166-final/cs166-learned-count-min-final-demo.html">interactive demo!</a></span> </li>
+  <li style="font-size: 80%"> <span><span style="color: #a00000">[June 2020]</span> My project team for CS166 <i>(Data Structures)</i> published our project on <a href="https://medium.com/@ankushswar1/the-promise-of-learned-data-structures-32bc1101349f">Medium</a>, where we explore learned index structures. Check out the associated <a href="https://markiewagner.github.io/cs166-final/cs166-learned-count-min-final-demo.html">interactive demo!</a></span> </li>
 
   <li style="font-size: 80%"> <span><span style="color: #a00000">[March 2020]</span> I am excited to be doing a software engineering internship at <a href="https://www.gridspace.com/">Gridspace</a> this summer!</span> </li>
+</ul>
+
+## Publications
+
+<ul style="width: 85%;">
+  <li style="font-size: 85%">
+    <span>
+      <strong>Unsupervised Large-Scale Search for Similar Earthquake Signals </strong> <a href="https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/109/4/1451/571797/Unsupervised-Large-Scale-Search-for-Similar?redirectedFrom=fulltext" class="paper-button">paper</a> <br>
+      <span style="font-size: 85%">
+        Clara Yoon, Karianne Bergen, Kexin Rong, <u>Hashem Elezabi</u>, William Ellsworth, Gregory Beroza, Peter Bailis, Philip Levis.<br>
+        <i style="color: #a00000">BSSA 2019 (Bulletin of the Seismological Society of America)</i>
+      </span>
+    </span>
+  </li>
+
+  <li style="font-size: 85%">
+    <span>
+      <strong>Locality-Sensitive Hashing for Earthquake Detection: A Case Study of Scaling Data-Driven Science</strong><br>
+      <a href="/assets/docs/quake-vldb18.pdf" class="paper-button">paper</a>
+      <a href="https://dawn.cs.stanford.edu/2018/09/05/quake/" class="paper-button">blog post</a>
+      <a href="https://www.youtube.com/watch?v=LXi0TIOOfEY" class="paper-button">video by lead author</a>
+      <a href="https://github.com/stanford-futuredata/FAST" class="paper-button">code</a><br>
+      <span style="font-size: 85%">
+        Kexin Rong, Clara Yoon, Karianne Bergen, <u>Hashem Elezabi</u>, Peter Bailis, Philip Levis, Gregory Beroza.<br>
+        <i style="color: #a00000">VLDB 2018 (Very Large Data Bases)</i>
+      </span>
+    </span>
+  </li>
+
+  <li style="font-size: 85%">
+    <span>
+      <strong>PGAS Access Overhead Characterization in Chapel</strong> <a href="https://ieeexplore.ieee.org/document/7530053" class="paper-button">paper</a> <br>
+      <span style="font-size: 85%">
+        Engin Kayraklioglu, Olivier Serres, Ahmad Anbar, <u>Hashem Elezabi</u>, Tarek El-Ghazawi.<br>
+        <i style="color: #a00000">IPDPSW 2016 (IEEE International Parallel and Distributed Processing Symposium Workshops)</i>
+      </span>
+    </span>
+  </li>
+
 </ul>
 
 
