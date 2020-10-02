@@ -17,6 +17,8 @@ I've worked on projects in areas ranging from machine learning and data mining t
 ## News
 
 <ul style="width: 80%;">
+  <li style="font-size: 80%"> <span><span style="color: #a00000">[September 2020]</span> I just started working on my honors thesis research with <a href="https://scholar.google.com/citations?user=B8pqstQAAAAJ&hl=en">Tian Zhao</a> and <a href="https://en.wikipedia.org/wiki/Kunle_Olukotun">Professor Kunle Olukotun</a> on methods for more efficient execution of deep learning workloads.</span> </li>
+
   <li style="font-size: 80%"> <span><span style="color: #a00000">[June 2020]</span> My project team for CS166 <i>(Data Structures)</i> published our project on <a href="https://medium.com/@ankushswar1/the-promise-of-learned-data-structures-32bc1101349f">Medium</a>, where we explore learned index structures. Check out the associated <a href="https://markiewagner.github.io/cs166-final/cs166-learned-count-min-final-demo.html">interactive demo!</a></span> </li>
 
   <li style="font-size: 80%"> <span><span style="color: #a00000">[March 2020]</span> I am excited to be doing a software engineering internship at <a href="https://www.gridspace.com/">Gridspace</a> this summer!</span> </li>
