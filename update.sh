@@ -1,4 +1,4 @@
 git add .
-git commit -m "WIP"
+git commit -m "Update website"
 git push origin working
 rake

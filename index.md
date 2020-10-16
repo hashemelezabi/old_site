@@ -8,9 +8,7 @@ title: Hashem Elezabi
 
 {% smallmarginfigure "my-photo" "assets/img/me.jpg" "" %}
 
-I'm Hashem -- thanks for visiting my website. I'm a student at Stanford University doing a primary major in Electrical Engineering, a [secondary major](https://registrar.stanford.edu/students/undergraduate-degree-progress/secondary-major) in Computer Science, and a minor in Mathematics. I'm mainly interested in algorithms, machine learning, and data-intensive software systems. Here's [my resume](assets/docs/resume.pdf).
-
-I've worked on projects in areas ranging from machine learning and data mining to parallel computing and web development, in both research and industry settings. I'm always looking for opportunities to work on challenging and impactful problems!
+I'm Hashem -- thanks for visiting my website. I'm a student at Stanford University studying electrical engineering and computer science, with a minor in math. I'm mainly interested in machine learning algorithms and data-intensive systems. Here's [my resume](assets/docs/resume.pdf).
 
 <hr class="slender" width="70%" style="margin-top: 2%; margin-left: 7%">
 
@@ -65,6 +63,9 @@ I've worked on projects in areas ranging from machine learning and data mining t
 
 
 <!-- I love working on hard problems, especially ones that have a real-world impact. I'm always looking for opportunities to expand my knowledge and build new skills. Check out some of my [projects](/projects), or take a look at my [blog](/blog). -->
+
+<!-- 
+I've worked on projects in areas ranging from machine learning and data mining to parallel computing and web development, in both research and industry settings. I'm always looking for opportunities to work on challenging and impactful problems! -->
 
 <!--   <h1 class="content-listing-header sans">Articles</h1>
   <ul class="content-listing ">
