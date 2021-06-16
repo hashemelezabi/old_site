@@ -8,9 +8,9 @@ title: Hashem Elezabi
 
 {% smallmarginfigure "my-photo" "assets/img/me.jpg" "" %}
 
-I'm Hashem -- thanks for visiting my website. I'm a student at Stanford University studying electrical engineering and computer science, with a minor in math. I'm mainly interested in machine learning algorithms and data-intensive systems. Here's [my resume](assets/docs/resume.pdf).
+I'm Hashem -- thanks for visiting my website. I'm currently pursuing a B.S. in Electrical Engineering with Honors, a M.S. in Computer Science, and a minor in Mathematics at Stanford University. I'm mainly interested in machine learning algorithms, efficient software/hardware systems, and the intersection between those two.
 
-<hr class="slender" width="70%" style="margin-top: 2%; margin-left: 7%">
+<!-- <hr class="slender" width="70%" style="margin-top: 2%; margin-left: 7%">
 
 ## News
 
@@ -20,7 +20,7 @@ I'm Hashem -- thanks for visiting my website. I'm a student at Stanford Universi
   <li style="font-size: 80%"> <span><span style="color: #a00000">[June 2020]</span> My project team for CS166 <i>(Data Structures)</i> published our project on <a href="https://medium.com/@ankushswar1/the-promise-of-learned-data-structures-32bc1101349f">Medium</a>, where we explore learned index structures. Check out the associated <a href="https://markiewagner.github.io/cs166-final/cs166-learned-count-min-final-demo.html">interactive demo!</a></span> </li>
 
   <li style="font-size: 80%"> <span><span style="color: #a00000">[March 2020]</span> I am excited to be doing a software engineering internship at <a href="https://www.gridspace.com/">Gridspace</a> this summer!</span> </li>
-</ul>
+</ul> -->
 
 ## Publications
 
