@@ -40,7 +40,7 @@ I'm Hashem -- thanks for visiting my website. I'm currently pursuing a B.S. in E
       <strong>Locality-Sensitive Hashing for Earthquake Detection: A Case Study of Scaling Data-Driven Science</strong><br>
       <a href="/assets/docs/quake-vldb18.pdf" class="paper-button">paper</a>
       <a href="https://dawn.cs.stanford.edu/2018/09/05/quake/" class="paper-button">blog post</a>
-      <a href="https://www.youtube.com/watch?v=LXi0TIOOfEY" class="paper-button">video by lead author</a>
+      <a href="https://www.youtube.com/watch?v=LXi0TIOOfEY" class="paper-button">video</a>
       <a href="https://github.com/stanford-futuredata/FAST" class="paper-button">code</a><br>
       <span style="font-size: 85%">
         Kexin Rong, Clara Yoon, Karianne Bergen, <u>Hashem Elezabi</u>, Peter Bailis, Philip Levis, Gregory Beroza.<br>
