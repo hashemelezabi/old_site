@@ -8,7 +8,13 @@ title: Hashem Elezabi
 
 {% smallmarginfigure "my-photo" "assets/img/me.jpg" "" %}
 
-I'm Hashem -- thanks for visiting my website. I'm currently pursuing a B.S. in Electrical Engineering with Honors, a M.S. in Computer Science, and a minor in Mathematics at Stanford University. I'm mainly interested in machine learning algorithms, efficient software/hardware systems, and the intersection between those two.
+I'm Hashem -- thanks for visiting my website. I'm currently pursuing a B.S. in Electrical Engineering with Honors (2022), a M.S. in Computer Science (2023), and a minor in Mathematics at Stanford University.
+
+I'm mainly interested in machine learning algorithms, efficient software/hardware systems, and the intersection between those two. I'm also interested in applications of AI to vision and language, as well as applications of AI to the improvement of human productivity (including the way we build software!).
+
+On a more theoretical note, I am very interested in the theory of deep learning. Developing this theory enables us to better understand the limits of AI and ML as well as design new algorithms, techniques, and model architectures that are guided by rigorous theoretical results.
+
+I'm currently doing research on methods for automatically generating efficient CUDA kernels for effective GPU acceleration of deep learning workloads, under the guidance of [Professor Kunle Olukotun](https://en.wikipedia.org/wiki/Kunle_Olukotun) and PhD student [Tian Zhao](https://scholar.google.com/citations?user=B8pqstQAAAAJ&hl=en). Previously, I worked on [FAST](https://github.com/stanford-futuredata/FAST), an end-to-end earthquake detection system that uses a novel method based on [locality-sensitive hashing](https://en.wikipedia.org/wiki/Locality-sensitive_hashing), under the guidance of [Professor Peter Bailis](http://www.bailis.org/) and PhD student [Kexin Rong](https://kexinrong.github.io/).
 
 <!-- <hr class="slender" width="70%" style="margin-top: 2%; margin-left: 7%">
 
