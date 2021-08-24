@@ -8,7 +8,7 @@ title: Hashem Elezabi
 
 {% smallmarginfigure "my-photo" "assets/img/me.jpg" "" %}
 
-<p style="font-size: 90%">
+<p>
   I'm Hashem -- thanks for visiting my website. I'm currently pursuing a B.S. in Electrical Engineering with Honors (2022), a M.S. in Computer Science (2023), and a minor in Mathematics at Stanford University.<br><br>
 
   I'm mainly interested in machine learning algorithms, efficient software/hardware systems, and the intersection between those two. I'm also interested in applications of AI to vision and language, as well as applications of AI to the improvement of human productivity (including the way we build software!).<br><br>
