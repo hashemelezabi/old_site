@@ -4,13 +4,13 @@ title: Hashem Elezabi
 ---
 <div style="height: 10%;">&nbsp;</div>
 
-{% smallmarginfigure "my-photo" "assets/img/me.jpg" "" %}
+{% smallmarginfigure "my-photo" "assets/img/me_lake.png" "" %}
 
-I'm Hashem -- thanks for visiting my website! I'm currently pursuing a B.S. in Electrical Engineering with Honors (2022), a M.S. in Computer Science (2023), and a minor in Mathematics at Stanford University.
+I’m Hashem – thanks for visiting my website! I'm a student at Stanford doing a B.S. in Electrical Engineering with Honors and an M.S. in Computer Science (AI Track). I also completed a minor in Mathematics.
 
-I'm mainly interested in machine learning algorithms, efficient software/hardware systems, and the intersection between those two. I'm also interested in applications of AI to vision and language, as well as applications of AI to the improvement of human productivity (including the way we build software!).
+I’m interested in AI and its applications in computer vision, natural language, and other areas. I also like computer systems and have an interest in the intersection between systems and machine learning.
 
-I'm currently doing research on methods for automatically generating efficient CUDA kernels for effective GPU acceleration of deep learning workloads, under the guidance of [Professor Kunle Olukotun](https://en.wikipedia.org/wiki/Kunle_Olukotun) and PhD student [Tian Zhao](https://scholar.google.com/citations?user=B8pqstQAAAAJ&hl=en). Previously, I worked on [FAST](https://github.com/stanford-futuredata/FAST), an unsupervised end-to-end earthquake detection system that uses a novel method based on [locality-sensitive hashing](https://en.wikipedia.org/wiki/Locality-sensitive_hashing), under the guidance of [Professor Peter Bailis](http://www.bailis.org/) and PhD student [Kexin Rong](https://kexinrong.github.io/).
+<!-- I'm currently doing research on methods for automatically generating efficient CUDA kernels for effective GPU acceleration of deep learning workloads, under the guidance of [Professor Kunle Olukotun](https://en.wikipedia.org/wiki/Kunle_Olukotun) and PhD student [Tian Zhao](https://scholar.google.com/citations?user=B8pqstQAAAAJ&hl=en). Previously, I worked on [FAST](https://github.com/stanford-futuredata/FAST), an unsupervised end-to-end earthquake detection system that uses a novel method based on [locality-sensitive hashing](https://en.wikipedia.org/wiki/Locality-sensitive_hashing), under the guidance of [Professor Peter Bailis](http://www.bailis.org/) and PhD student [Kexin Rong](https://kexinrong.github.io/). -->
 
 <!-- <p>
   I'm Hashem -- thanks for visiting my website. I'm currently pursuing a B.S. in Electrical Engineering with Honors (2022), a M.S. in Computer Science (2023), and a minor in Mathematics at Stanford University.<br><br>
